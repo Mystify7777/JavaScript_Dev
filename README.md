@@ -14,3 +14,9 @@ A repository to put all my JavaScript files for the 30 days challenge.
 - Q.8 - [info.js](/day1/info.js)
 - Q.9 - [info2.js](/day1/info2.js)
 - Q.10 - [age.js](/day1/age.js)
+
+## Day 2
+
+- Level - 1 - [easy.js](/day2/easy.js)
+- Level - 2 - [medium.js](/day2/medium.js)
+- Level - 3 - [hard.js](/day2/hard.js)
